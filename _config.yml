@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "contrast"
 title                    : "Jordyn R. Ricard"
 title_separator          : "-"
-name                     : &name "Jordyn Ricard"
+name                     : &name "Jordyn R. Ricard"
 description              : &description "personal description"
 url                      : https://jordynricard.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -99,7 +99,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts            : # 5 (default)
+    num_posts            : # 7 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
