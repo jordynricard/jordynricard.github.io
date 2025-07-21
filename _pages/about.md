@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: #"Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a fourth-year PhD Candidate at Yale University. Additionally, I am a Robert Wood Johnson Foundation Health Policy Research Scholar (HPRS) and National Science Foundation Graduate Research Fellow.
+I am a fourth-year PhD Candidate at Yale University. Additionally, I am a Robert Wood Johnson Foundation [Health Policy Research Scholar](https://healthpolicyresearch-scholars.org) and National Science Foundation [Graduate Research Fellow](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program).
 
 I received my B.S. from the School of Education and Social Policy at Northwestern University in 2020. Prior to my graduate studies, I worked as a post-baccalaureate research assistant in Dr. Matthew Nock’s lab at Harvard University where I studied the relationship between early adversity and suicide risk. 
 
