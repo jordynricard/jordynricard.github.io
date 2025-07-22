@@ -1,16 +1,20 @@
 ---
-title: "Teaching Fellow: PSYC 342"
+title: "Teaching Fellow: Yale University"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Yale University, Department"
-date: 2023-01-01
+type: "Undergraduate Courses:"
 location: "New Haven, CT"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-PSYC 342: Psychology of Gender 
-======
-Instructor: Dr. Tariq Khan
 
+4. PSYC 141: Psychology and Global Capitalism Yale University
+   Instructor: Dr. Tariq Khan
+
+3. PSYC 141: The Criminal Mind Yale University
+   Instructor: Dr. Arielle Baskin-Sommers
+
+2. PSYC 115: History of Psychology: Racism and Colonial Power Yale University
+   Instructor: Dr. Tariq Khan
+
+1. PSYC 342: Psychology of Gender Yale University
+   Instructor: Dr. Tariq Khan
