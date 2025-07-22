@@ -5,8 +5,6 @@ type: "Undergraduate Courses:"
 location: "New Haven, CT"
 ---
 
-
-
 4. PSYC 141: Psychology and Global Capitalism Yale University
    Instructor: Dr. Tariq Khan
 
