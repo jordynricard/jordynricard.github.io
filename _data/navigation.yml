@@ -9,11 +9,12 @@
 
 main:
 
-  - title: "CV"
-    url: /files/ricard_jr_cv.pdf
-  
   - title: "Publications"
     url: /publications/
+
+  - title: "CV"
+    url: /files/ricard_jr_cv.pdf
+
 
   #- title: "Talks"
   #  url: /talks/    
@@ -26,10 +27,6 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-  
-    
-  # - title: "CV"
-  #   url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
