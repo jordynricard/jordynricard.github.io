@@ -23,13 +23,13 @@ repository               : # "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Jordyn R. Ricard"
+  pronouns         : "she/her"  
+  bio              : "PhD Candidate in Clinical Psychology, Yale University"
+  location         : "New Haven, CT"
+  employer         : "Yale University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   academia         : # URL
