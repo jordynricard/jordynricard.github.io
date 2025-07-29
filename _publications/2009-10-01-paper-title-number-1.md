@@ -16,5 +16,5 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 <u>Published:<u>
 
-- Castro-Ramirez, F., Al-Suwaidi, M., Garcia, P., Rankin, O., Ricard, J. R., & Nock, M. K. (2021). Racism and poverty are barriers to the treatment of youth mental health concerns. Journal of Clinical Child & Adolescent Psychology, 50(4), 534-546. [[pdf](https://ricardjocelyn.github.io/assets/pdf/castro2021racism.pdf)
+- Castro-Ramirez, F., Al-Suwaidi, M., Garcia, P., Rankin, O., Ricard, J. R., & Nock, M. K. (2021). Racism and poverty are barriers to the treatment of youth mental health concerns. Journal of Clinical Child & Adolescent Psychology, 50(4), 534-546. [[pdf](https://jordynricard.github.io/files/castro2021racism.pdf)
 
