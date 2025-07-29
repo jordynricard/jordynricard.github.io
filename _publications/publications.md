@@ -7,13 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
 You can find my most updated list of publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7Qv7_Y4AAAAJ&view_op=list_works&sortby=pubdate).
 
 <u>Under Review:<u>
