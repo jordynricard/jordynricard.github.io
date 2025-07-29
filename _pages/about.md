@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-About
 ======
 I am a third-year doctoral student in clinical psychology at Yale University and a clinical psychology intern at the Transitions Clinic in New Haven, a primary care clinic based at the New Haven Primary Care Consortium that serves individuals recently released from prison and jail who are living with chronic health conditions. In this role, I provide evidence-based psychotherapy to formerly incarcerated adults navigating co-occurring medical and psychological challenges.
 
