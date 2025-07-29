@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jordyn R. Ricard"
+title: # "Jordyn R. Ricard"
 author_profile: true
 redirect_from: 
   - /about/
